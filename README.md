@@ -36,7 +36,15 @@ This repository has all the code for project which is a part of term 2 of the Ud
 3. File Descriptions
 
     This repo contains two files, called AirBnb_Seattle_Project.ipynb that contains the code and its html file. The blog post can be found [here](https://medium.com/akhil-anurag/seattle-airbnb-price-predictions-7966f0966940?)
+    
+4. Summary Result: 
 
-4. Licensing, Authors, Acknowledgements, etc.
+    Analyzing the Seattle data, we can conclude:
+    
+        a. AirBnb listing price can be predicted using host and property features. Although we are able to get a model which can predict listing price, but there is room to improve this model further to support hosts and homeowners in deciding the best price
+        b. Neighborhood groups play an important role in price determination along with property space
+        c. Customer comments on the property is not determined by the factors which determines listings prices.
+
+5. Licensing, Authors, Acknowledgements, etc.
 
     Seattle AirBnB data was obtained from Udacity. Other references are cited within the notebook.
