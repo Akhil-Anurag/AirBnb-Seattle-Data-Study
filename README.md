@@ -29,9 +29,9 @@ This repository has all the code for project which is a part of term 2 of the Ud
 
     Seattle AirBnB Dataset contains data about AirBnB listings in Seattle, calendar availability for each of these listings as well as user reviews on the listings. Using this dataset, I am going to attempt to answer the following business questions.
 
-    a. Can we predict listing price using the available host and property information ?
-    b. Can we find out the most important drivers to listing price?
-    c. Are the factors influencing price also influence reviews?
+        a. Can we predict listing price using the available host and property information ?
+        b. Can we find out the most important drivers to listing price?
+        c. Are the factors influencing price also influence reviews?
 
 3. File Descriptions
 
